@@ -3,9 +3,9 @@
     "students" : [
       {
         "name" : "Matt watson",
-        "age" : 3.9,
-        "secretIdentity" : "Front-end Programmer",
-        "powers" : [
+        "gpa" : 3.9,
+        "career" : "Front-end Programmer",
+        "langs" : [
           "CSS",
           "HTML",
           "Bootstrap"
@@ -13,9 +13,9 @@
       },
       {
         "name" : "Ryan Magee",
-        "age" : 3.8,
-        "secretIdentity" : "Back-end Programmer",
-        "powers" : [
+        "gpa" : 3.8,
+        "career" : "Back-end Programmer",
+        "langs" : [
           "Java",
           "SQL",
           "C"
