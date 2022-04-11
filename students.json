@@ -1,13 +1,9 @@
 {
     "squadName" : "Top students of Algonquin College",
-    "homeTown" : "Ottawa",
-    "formed" : 2016,
-    "secretBase" : "Super tower",
-    "active" : true,
     "members" : [
       {
         "name" : "Matt watson",
-        "age" : 22,
+        "age" : 3.9,
         "secretIdentity" : "Front-end Programmer",
         "powers" : [
           "CSS",
@@ -17,7 +13,7 @@
       },
       {
         "name" : "Ryan Magee",
-        "age" : 20,
+        "age" : 3.8,
         "secretIdentity" : "Back-end Programmer",
         "powers" : [
           "Java",
