@@ -1,0 +1,41 @@
+{
+    "squadName" : "Top students of Algonquin College",
+    "homeTown" : "Ottawa",
+    "formed" : 2016,
+    "secretBase" : "Super tower",
+    "active" : true,
+    "members" : [
+      {
+        "name" : "Matt watson",
+        "age" : 22,
+        "secretIdentity" : "Front-end Programmer",
+        "powers" : [
+          "CSS",
+          "HTML",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name" : "Ryan Magee",
+        "age" : 20,
+        "secretIdentity" : "Back-end Programmer",
+        "powers" : [
+          "Java",
+          "SQL",
+          "C"
+        ]
+      },
+      {
+        "name" : "Eternal Flame",
+        "age" : 1000000,
+        "secretIdentity" : "Unknown",
+        "powers" : [
+          "Immortality",
+          "Heat Immunity",
+          "Inferno",
+          "Teleportation",
+          "Interdimensional travel"
+        ]
+      }
+    ]
+  }
