@@ -1,6 +1,6 @@
 {
-    "squadName" : "Top students of Algonquin College",
-    "members" : [
+    "College" : "Top students of Algonquin College",
+    "students" : [
       {
         "name" : "Matt watson",
         "age" : 3.9,
